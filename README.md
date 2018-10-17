@@ -61,4 +61,8 @@ Release History
 
 Author
 ------
-Darshan Dagly
+1. Darshan Dagly
+2. Pranay Jagtap
+3. Abhyudaya Srinet
+4. Saurabh Abhale
+5. Shreya Darak
